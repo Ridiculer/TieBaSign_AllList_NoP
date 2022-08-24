@@ -5,7 +5,7 @@
 ![Baidu Tieba Auto Sign](https://github.com/Ridiculer/TieBaSign_AllList_NoP/workflows/Baidu%20Tieba%20Auto%20Sign/badge.svg)
 
 ## 2022-8-23
-fork别人的拿来用的，测试可以全关注列表签到，其他人的都只能签200个。
+fork别人的拿来用的，自测可以全关注列表都签到，其他人的都只能签200个。
 
 本来的main里有个send_mail会导致出错我直接删除了
 
